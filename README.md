@@ -4,4 +4,5 @@
 
 * 'git init' create new local repo
 * 'git add .' - add current working directory to git index
-* 'git commit -m "message"' -commit changes to local repo
+* 'git commit -m "message"' - commit changes to local repo
+* 'git status' - display status of local repo
